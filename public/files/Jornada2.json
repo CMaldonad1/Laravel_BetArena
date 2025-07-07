@@ -1,0 +1,66 @@
+{
+    "jornada": "2",
+    "inici":"09/06/2023",
+    "partits":[
+        {
+            "local":"Mist Riders",
+            "visitant":"Skywatch Sentinels"
+        },
+        {
+            "local":"Shinra UD",
+            "visitant":"Madmoon Toadlickers"
+        },
+        {
+            "local":"Warp Vultures",
+            "visitant":"Midenburg Crawlers"
+        },
+        {
+            "local":"Caledor Hawks",
+            "visitant":"Karak Despoilers"
+        },
+        {
+            "local":"Cayetanos de Altdorf",
+            "visitant":"Helm's Librarians"
+        },
+        {
+            "local":"Los Rudos UD",
+            "visitant":"Terribilis Ranae"
+        },
+        {
+            "local":"Everchosen",
+            "visitant":"Orcland Riders"
+        },
+        {
+            "local":"Dwarfs Giants",
+            "visitant":"Naggaroth Nightwings"
+        },
+        {
+            "local":"Greenfield Grasshuggers",
+            "visitant":"Elfheim Eagles"
+        },
+        {
+            "local":"Sotek Vipers",
+            "visitant":"Reikland Reavers"
+        },
+        {
+            "local":"Nurgle's Rotters",
+            "visitant":"Wolfenburg Crypt-stealers"
+        },
+        {
+            "local":"Oldheim Ogres",
+            "visitant":"Migthy Crabs"
+        },
+        {
+            "local":"Champions of Law",
+            "visitant":"Insert Name Here"
+        },
+        {
+            "local":"Warpfire Wanderers",
+            "visitant":"Fungus Farmers"
+        },
+        {
+            "local":"Rampaging Riders",
+            "visitant":"Underworld Creepers"            
+        }
+    ]
+}
